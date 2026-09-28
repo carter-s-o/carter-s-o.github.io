@@ -1,0 +1,16 @@
+---
+title: "Carter O'Dell"
+image: carter.odell.headshot.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/carter-s-o
+    - icon: linkedIn
+      text: LinkedIn
+      href: https://linkedin.com/in/carter-o-dell-96942343b
+    - icon: inboxes
+      text: Contact
+      href: mailto: cartersodell@gmail.com
+---
