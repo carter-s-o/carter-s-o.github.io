@@ -10,15 +10,12 @@ website:
         href: index.qmd
       - text: Projects
         href: projects.qmd
-      - text: Instagram
-        href: @csodell54
       - text: Resume
         href: resume.qmd
       
 format:
   html:
-    theme:
-      - cosmo
+    theme: cosmo
     css: styles.css
     
 editor: visual
