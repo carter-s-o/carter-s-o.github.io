@@ -1,12 +1,12 @@
 ---
-title: "Carter O'Dell"
+title: "About Me"
 image: carter.odell.headshot.jpg
 about:
   template: jolla
   links:
     - icon: github
       text: Github
-      href: https://github.com/carter-s-o/carter-s-o.github.io
+      href: https://github.com/carter-s-o
     - icon: linkedIn
       text: LinkedIn
       href: https://linkedin.com/in/carter-o-dell-96942343b

@@ -4,15 +4,15 @@ project:
 
 website:
   title: "Carter O'Dell"
-  
   navbar:
+    left: 
+      - href: index.qmd
+        text: Home
     right:
-      - text: Home
-        href: index.qmd
+      - text: About
+        href: aboutMe.qmd
       - icon: github
         href: https://github.com
-      - icon: blueksy
-        href: https://bsky.app/ 
       - text: Projects
         href: projects.qmd
       - text: Resume
