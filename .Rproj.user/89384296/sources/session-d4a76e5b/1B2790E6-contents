@@ -7,12 +7,10 @@ website:
   
   navbar:
     right:
-      - text: Home
+      - text: About
         href: index.qmd
       - icon: github
         href: https://github.com
-      - icon: blueksy
-        href: https://bsky.app/ 
       - text: Projects
         href: projects.qmd
       - text: Resume
