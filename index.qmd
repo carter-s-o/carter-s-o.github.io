@@ -12,5 +12,5 @@ about:
       href: https://linkedin.com/in/carter-o-dell-96942343b
     - icon: inboxes
       text: Contact
-      href: mailto: cartersodell@gmail.com
+      href: mailto:cartersodell@gmail.com
 ---

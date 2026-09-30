@@ -4,7 +4,6 @@ project:
 
 website:
   title: "Carter O'Dell"
-  
   navbar:
     right:
       - text: About
@@ -14,13 +13,12 @@ website:
       - text: Projects
         href: Projects.qmd
       - icon: github
-        href: https://github.com/
-      
-
+        href: https://github.com/carter-s-o
 format:
   html:
     theme: cosmo
     css: styles.css
 
 editor: visual
+engine: markdown
 
