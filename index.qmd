@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Carter O'Dell"
 image: carter.odell.headshot.jpg
 about:
   template: jolla
