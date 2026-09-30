@@ -2,7 +2,7 @@
 title: "Resume"
 ---
  <iframe width="800" height= "1000"
- src = "Carter+O'Dell.pdf">
+ src = "Carter_Resume.pdf">
 
  </iframe>
 ---

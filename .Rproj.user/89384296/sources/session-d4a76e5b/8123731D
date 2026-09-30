@@ -3,7 +3,7 @@
     "path": "C:/Intro/Eportfolio/Resume.qmd",
     "project_path": "Resume.qmd",
     "type": "quarto_markdown",
-    "hash": "4206337718",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1790607896196.0,
@@ -19,15 +19,15 @@
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "106:0",
+        "rmdVisualModeLocation": "83:0",
         "docOutlineSize": "206"
     },
     "folds": "",
-    "lastKnownWriteTime": 1790708577,
+    "lastKnownWriteTime": 1790778950,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1790708577605,
+    "last_content_update": 1790778950383,
     "read_only": false,
     "read_only_alternatives": []
 }
