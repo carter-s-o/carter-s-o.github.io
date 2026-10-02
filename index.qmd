@@ -14,3 +14,7 @@ about:
       text: Contact
       href: mailto:cartersodell@gmail.com
 ---
+
+Hi, I'm Carter O'Dell from Jacksonville, Arkansas. I am an undergraduate student studying Industrial Engineering and Operation Analytics at the University of Arkansas.
+
+**Welcome to My Portfolio** This site serves as a collection of my academic work, technical projects, and professional background. Please feel free to explore the resources, code, and documents included here—everything is available for you to review and use as needed for professional or academic purposes!
