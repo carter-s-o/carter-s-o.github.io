@@ -2,7 +2,7 @@
 title: "Carter O'Dell"
 image: "Carter_headshot.jpeg"
 about:
-  template: trestles
+  template: broadside
   links:
     - icon: github
       text: Github
