@@ -1,6 +1,6 @@
 ---
 title: "Carter O'Dell"
-image: carter.odell.headshot.jpg
+image: Carter.odell.headshot.jpeg
 about:
   template: jolla
   links:
