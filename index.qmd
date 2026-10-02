@@ -2,7 +2,7 @@
 title: "Carter O'Dell"
 image: "Carter_headshot.jpeg"
 about:
-  template: jolla
+  template: solana
   links:
     - icon: github
       text: Github
