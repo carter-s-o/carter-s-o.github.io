@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -38,10 +41,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-267efaf477eec0fe62d4fb3579b721f4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-6f7d7cdbd48827f75cbeb867e6f99278.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -108,6 +111,10 @@ ul.task-list li input[type="checkbox"] {
 </i> 
 <span class="menu-text"></span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./posts/data-viz-project.qmd"> 
+<span class="menu-text">Data Viz Project</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -121,10 +128,10 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-broadside column-page">
-  <div class="about-main">
-    <div class="about-entity" style="background-image: url('Carter_headshot.jpeg')"></div>
-    <div class="about-contents"><header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-about-jolla">
+  <img src="Carter_headshot.jpeg" class="about-image
+  round " style="height: 15em; width: 15em;">
+ <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Carter O’Dell</h1>
 </div>
@@ -135,9 +142,9 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Welcome to My Portfolio</strong> This site serves as a collection of my academic work, technical projects, and professional background. Please feel free to explore the resources, code, and documents included here—everything is available for you to review and use as needed for professional or academic purposes!</p>
 
 
-</main></div>
-  </div>
-  <div class="about-links">
+</main> 
+  <hr class="about-sep">
+   <div class="about-links">
   <a href="https://github.com/carter-s-o" class="about-link" rel="" target="">
     <i class="bi bi-github"></i>
      <span class="about-link-text">Github</span>

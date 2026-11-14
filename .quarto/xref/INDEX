@@ -16,5 +16,11 @@
   },
   "Resume.qmd": {
     "Resume.html": "3d8cd768"
+  },
+  "data-viz-project.qmd": {
+    "data-viz-project.html": "bf8330b1"
+  },
+  "projects/data-viz-project.qmd": {
+    "data-viz-project.html": "f9fc82c5"
   }
 }
