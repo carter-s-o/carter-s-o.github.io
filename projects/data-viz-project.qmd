@@ -3,10 +3,14 @@ title: "Behind the Beat: Exploring Spotify Music Trends"
 author: "Carter O'Dell"
 date: "2026-11-13"
 categories: [data, analysis, Excel, presentation, Teamwork]
-image: "Behind the Beat.png"
+image: "5cd7affS-9a23-4469-a973-f05cb24fc98.png"
 ---
 Team Members 
-Me:
+- Me
+- [William Hendrix](https://swisscheeseisholy.github.io/)
+- [Elizabeth Brock](https://elizabeth-diane.github.io/)
+- [Mattie McGrauh]()
+- [Sara Draper]()
 
 Description
 
