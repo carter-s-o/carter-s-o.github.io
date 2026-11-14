@@ -11,7 +11,7 @@ image: "Front1.png"
 - [William Hendrix](https://swisscheeseisholy.github.io/)
 - [Elizabeth Brock](https://elizabeth-diane.github.io/)
 - [Mattie McGrauh]()
-- [Sarah Draper]()
+- [Sarah Draper](https://sarahdraper.github.io/)
 
 ## Description
 
