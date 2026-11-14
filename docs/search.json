@@ -60,7 +60,7 @@
     "href": "projects/data-viz-project.html",
     "title": "Behind the Beat: Exploring Spotify Music Trends",
     "section": "",
-    "text": "Team Members - Me - William Hendrix - Elizabeth Brock - Mattie McGrauh - Sara Draper\nDescription\nFor this project, our team analyzed a music streaming dataset from the WU-RDS MA2022 repository containing 66,796 songs and variables related to chart performance, artist popularity, and song characteristics. The dataset includes songs that appeared in Top 200 charts and contains information such as genre, release date, song length, speechiness, danceability, energy, and Spotify artist popularity.\nWe cleaned and organized the data in Microsoft Excel, selected the variables relevant to our four research questions, and created a line chart, bar chart, histogram, and scatter plot to explore trends in music and streaming behavior."
+    "text": "Team Members: - Me - William Hendrix - Elizabeth Brock - Mattie McGrauh - Sarah Draper\nDescription\nFor this project, our team analyzed a music streaming dataset from the WU-RDS MA2022 repository containing 66,796 songs and variables related to chart performance, artist popularity, and song characteristics. The dataset includes songs that appeared in Top 200 charts and contains information such as genre, release date, song length, speechiness, danceability, energy, and Spotify artist popularity.\nWe cleaned and organized the data in Microsoft Excel, selected the variables relevant to our four research questions, and created a line chart, bar chart, histogram, and scatter plot to explore trends in music and streaming behavior."
   },
   {
     "objectID": "projects/data-viz-project.html#team-members",
