@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Carter O'Dell"
+  favicon: "gemini-svg.svg"
   navbar:
     right:
       - text: About
