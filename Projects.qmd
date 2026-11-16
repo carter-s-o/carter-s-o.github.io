@@ -8,6 +8,5 @@ listing:
   sort-ui: false
   filter-ui: false
 page-layout: full
-title-block-banner: "#9D2235"
-title-block-banner-color: "#FFFFFF"
+title-block-banner: true
 ---

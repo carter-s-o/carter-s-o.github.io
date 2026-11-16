@@ -22,5 +22,8 @@
   },
   "projects/data-viz-project.qmd": {
     "data-viz-project.html": "f9fc82c5"
+  },
+  "docs/projects.qmd": {
+    "projects.html": "7b91ed58"
   }
 }

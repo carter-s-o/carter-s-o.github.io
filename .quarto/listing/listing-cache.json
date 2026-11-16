@@ -3,6 +3,9 @@
     "Projects.qmd": [
       "posts",
       "projects"
+    ],
+    "docs\\projects.qmd": [
+      "projects"
     ]
   }
 }

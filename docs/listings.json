@@ -4,5 +4,9 @@
     "items": [
       "/projects/data-viz-project.html"
     ]
+  },
+  {
+    "listing": "/docs/projects.html",
+    "items": []
   }
 ]

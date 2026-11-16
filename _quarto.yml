@@ -25,6 +25,7 @@ format:
     theme:
       dark: darkly
       light: cosmo
+    css: styles.css
 
 editor: visual
 engine: markdown
