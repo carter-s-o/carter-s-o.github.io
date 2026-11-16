@@ -14,9 +14,10 @@ website:
         href: Projects.qmd
       - icon: github
         href: https://github.com/carter-s-o
+        
 format:
   html:
-    theme: lumen
+    theme: cosmo
     css: styles.css
 
 editor: visual
