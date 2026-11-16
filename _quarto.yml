@@ -6,8 +6,10 @@ website:
   title: "Carter O'Dell"
   favicon: "gemini-svg.svg"
   navbar:
+    background: "#9D2235"
+    foreground: "#FFFFFF"
     right:
-      - text: About
+      - text: Home
         href: index.qmd 
       - text: Resume
         href: Resume.qmd
@@ -15,11 +17,14 @@ website:
         href: Projects.qmd
       - icon: github
         href: https://github.com/carter-s-o
+  page-footer:
+    center: "© 2026 Carter O'Dell"
         
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      dark: darkly
+      light: cosmo
 
 editor: visual
 engine: markdown
