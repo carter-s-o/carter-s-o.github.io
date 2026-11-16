@@ -11,7 +11,7 @@ about:
       text: LinkedIn
       href: https://linkedin.com/in/carter-o-dell-96942343b
     - icon: inboxes
-      text: Contact
+      text: Email Me
       href: mailto:cartersodell@gmail.com
 ---
 

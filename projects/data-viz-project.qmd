@@ -10,8 +10,8 @@ image: "Front1.png"
 - Carter O'Dell
 - [William Hendrix](https://swisscheeseisholy.github.io/)
 - [Elizabeth Brock](https://elizabeth-diane.github.io/)
-- [Mattie McGrauh]()
-- [Sarah Draper](https://sarahdraper.github.io)
+- [Mattie McGarrah](https://mattiemcgrarrah.github.io/Mattie-McGarrah.github.io/)
+- [Sarah Draper](https://sarahdraper.github.io/)
 
 ## Description
 
